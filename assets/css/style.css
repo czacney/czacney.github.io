@@ -3,8 +3,8 @@ body {
     background-color: #cccccc;
 }
 
-.nav {
-    color: rgb(169, 142, 35);
+.navbar{
+    color: rgb(169, 142, 35) !important;
     font-family: 'Aladin'! important;
     font-size: x-large;
 }
@@ -29,6 +29,24 @@ body {
     border-radius: 12px;
 }
 
+h1, h2 {
+    font-family: 'Raleway';
+}
+
+p {
+    font-family: 'Raleway';
+}
+
+.card-body :link {
+    font-family: 'Raleway';
+
+}
+
+button {
+    border-radius: 12px !important;
+    background-color: teal;
+    
+}
 
 
 footer {
