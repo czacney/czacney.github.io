@@ -26,7 +26,7 @@ body {
 }
 
 .jumbotron {
-    border-radius: 12px;
+    border-radius: 25px !important;
 }
 
 h1, h2 {
@@ -45,7 +45,7 @@ p {
 button {
     border-radius: 12px !important;
     background-color: teal;
-    
+    color: wheat;
 }
 
 
